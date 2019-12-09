@@ -1,0 +1,27 @@
+{/* 
+                        <select selected className="dropdown" name="uni"  value={this.state.uni} onChange={this.handlechange}>
+                            <option value="ned" placeholder="university" className="dropdown">ned</option>
+                            <option value="sirsyed" className="dropdown">Sirsyed</option>
+                            <option value="fast" className="dropdown">Fast</option>
+                            <option value="uit" className="dropdown">uit</option>
+                            <option value="hamdard" className="dropdown">hamdard</option>
+                            <option value="ku" className="dropdown">ku</option>
+                        </select> <br />
+
+                        <select   className="dropdown" name="college" value={this.state.college} onChange={this.handlechange}>
+                            <option value="ncrcet" className="dropdown">ncr-cet</option>
+                            <option value="sirsyed college" className="dropdown">Sir syed college</option>
+                            <option value="adamjee college" className="dropdown">adamjee college</option>
+                            <option value="bahria college" className="dropdown">bahria college</option>
+                            <option value="cant college" className="dropdown">cant college</option>
+                            <option value="aps college" className="dropdown">aps college</option>
+                        </select> <br />
+
+                        <select    className="dropdown" name="subjects" value={this.state.subjects} onChange={this.handlechange}>
+                            <option value="data" className="dropdown">data science</option>
+                            <option value="web" className="dropdown">web development</option>
+                            <option value="ai" className="dropdown">arrtificial inteligence</option>
+                            <option value="webdesign" className="dropdown">web designing</option>
+                            <option value="ios" className="dropdown">ios</option>
+                            <option value="android" className="dropdown">android</option>
+                        </select> <br /> */}
